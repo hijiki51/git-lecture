@@ -9,10 +9,12 @@ WSLでは拡張機能での書き出しが行えないっぽいので、marp-cli
 
 以下のような `showcase.yaml` を置くことでshowcaseでの静的配信ができます。
 
+[サンプル](https://reyu.trap.show/marp-trap-theme/)
+
 ```yaml
 type: static
 
 startup: |
   npm i -g @marp-team/marp-cli
-  npx @marp-team/marp-cli {{スライド名}} -o index.html --theme theme.css
+  npx @marp-team/marp-cli {{スライド名}} -o index.html --theme theme/traP.css
 ```

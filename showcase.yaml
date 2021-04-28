@@ -2,4 +2,4 @@ type: static
 
 startup: |
   npm i -g @marp-team/marp-cli
-  npx @marp-team/marp-cli slides.md -o index.html --theme theme/traP.css
+  npx @marp-team/marp-cli sample.md -o index.html --theme theme/traP.css
