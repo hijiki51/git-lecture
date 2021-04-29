@@ -21,9 +21,21 @@ _class: title
 
 ### @hijiki51
 
-## サブタイトル
+# ![](sample_image/DSC_0701.JPG) @hijiki51
 
-まだつくってないよ
+<!--
+_class: user
+-->
+
+- 物理学系二年
+- Game
+- SysAd
+## 座学編
+
+- Gitとは
+  - バージョン管理システム
+- Gitの目的
+- Gitの仕組み
 
 ## 白紙
 
