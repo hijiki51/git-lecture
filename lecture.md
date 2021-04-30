@@ -80,46 +80,21 @@ _class: user
 - Git
 
 ## Gitの目的
-- 
 - **いつ、誰が、どこを、どのように**変更したか
 
+# Gitの仕組み
 
-## いろいろ
+## 仕組み
 
-多分だいたいのMarkdown記法に対応してるよ
+## Repository
 
-```javascript
-console.log("おいす～")
-```
-> は?情緒不安定か?ﾏﾝｺﾞｰうまいぜ
+## Commit
 
-$$
-a+b=c
-$$
+## Branch
+## Marge
 
-## いろいろ2
+## Pull Request
 
-|a|b|
-|-|-|
-|あ|い|
-|こんな感じで|書けるよ|
+## まとめ
 
-
-## 画像
-
-あんまり凝ったことはできない
-
-![](sample_image/traP.png)
-
-サイズ変えたり横に並べるぐらいならできる
-
-![w:200px](sample_image/traP.png)![w:200px](sample_image/traP.png)
-
-# ![](sample_image/lolico.png) @trapyojo
-
-<!--
-_class: user
--->
-
-正方形の画像を載せると多分いい感じにしてくれるよ
-それ以外についてはしらないよ
+## 参考文献
