@@ -38,25 +38,27 @@ _class: user
 
 # Gitとは
 
+<!--
+_class: title
+-->
 ## バージョン管理
-![](sample_image/version_db.png)
+![bg right w:50%](sample_image/version_db.png)
 
-- ファイルの変更の記録を管理
+- ファイルの変更の記録を管理 
   - 時間とともに記録
   - 問題がいつ起きたかの調査
   - 必要な地点に戻ることが出来る 
 
 ## 差分とスナップショット
-![](sample_image/deltas.png)
 - 差分
   - 変更の情報をリストとして持つ
   - 各バージョンごとにすべてのデータを持つわけではない
-
+![w:700px](sample_image/deltas.png)
 ## 差分とスナップショット
-![](sample_image/snapshots.png)
 - スナップショット
   - 各バージョンごとにすべてのデータを持つ
   - 変更がない時は以前の同一のファイルへのリンクを格納する
+![w:700px](sample_image/snapshots.png)
 ## データをどこに置くか？
 
 - ローカル
@@ -64,26 +66,28 @@ _class: user
 - 分散
 
 ## ローカル・バージョン管理
-![](sample_image/local.png)
+![bg right w:70%](sample_image/local.png)
 - ローカルにバージョン情報を保存する
 - でも、他人と共有がしにくい…
 ## 集中バージョン管理
-![](sample_image/centralized.png)
+![bg right w:70%](sample_image/centralized.png)
 - サーバーにデータを保存する
 - 複数人で共有できる
 - サーバーが落ちたり壊れると被害が大きい
 
 ## 分散バージョン管理
-![](sample_image/distributed.png)
+![bg right w:70%](sample_image/distributed.png)
 - 手元にもミラーリングされる
 - すべてのレポジトリがバックアップとなる
-- Git
 
 ## Gitの目的
+- 分散バージョン管理システム
 - **いつ、誰が、どこを、どのように**変更したか
 
 # Gitの仕組み
-
+<!--
+_class: title
+-->
 ## 仕組み
 
 ## Repository
