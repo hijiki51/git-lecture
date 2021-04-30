@@ -42,7 +42,7 @@ _class: user
 _class: title
 -->
 ## バージョン管理
-![bg right w:50%](sample_image/version_db.png)
+![bg right:40% w:50%](sample_image/version_db.png)
 
 - ファイルの変更の記録を管理 
   - 時間とともに記録
@@ -66,17 +66,17 @@ _class: title
 - 分散
 
 ## ローカル・バージョン管理
-![bg right w:70%](sample_image/local.png)
+![bg right:40% w:70%](sample_image/local.png)
 - ローカルにバージョン情報を保存する
 - でも、他人と共有がしにくい…
 ## 集中バージョン管理
-![bg right w:70%](sample_image/centralized.png)
+![bg right:40% w:70%](sample_image/centralized.png)
 - サーバーにデータを保存する
 - 複数人で共有できる
 - サーバーが落ちたり壊れると被害が大きい
 
 ## 分散バージョン管理
-![bg right w:70%](sample_image/distributed.png)
+![bg right:40% w:70%](sample_image/distributed.png)
 - 手元にもミラーリングされる
 - すべてのレポジトリがバックアップとなる
 
