@@ -13,8 +13,6 @@ class: slides
 
 # git講習会
 
-
-
 <!--
 _class: title
 -->
@@ -88,11 +86,18 @@ _class: title
 <!--
 _class: title
 -->
-## 仕組み
-
 ## Repository
+- ファイルの構造を保存する
+- ファイルの状態を保存する
+  - 変更履歴の記録がある
+## 
+![bg center w:850px](sample_image/repository.png)
 
 ## Commit
+- その前のコミットからの変更をコミットオブジェクトとして保存する
+- コミットオブジェクト $\fallingdotseq$ スナップショット
+  - 詳しくは[ここ](https://git-scm.com/book/ja/v2/Git%E3%81%AE%E5%86%85%E5%81%B4-Git%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
+- gitはコミットを基準として時系列が展開する
 
 ## Branch
 ## Marge
