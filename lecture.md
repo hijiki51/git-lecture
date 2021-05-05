@@ -19,7 +19,7 @@ _class: title
 
 ### @hijiki51
 
-# ![](sample_image/DSC_0701.JPG) @hijiki51
+# ![](images/DSC_0701.JPG) @hijiki51
 
 <!--
 _class: user
@@ -40,7 +40,7 @@ _class: user
 _class: title
 -->
 ## バージョン管理
-![bg right:40% w:50%](sample_image/version_db.png)
+![bg right:40% w:50%](images/version_db.png)
 
 - ファイルの変更の記録を管理 
   - 時間とともに記録
@@ -51,12 +51,12 @@ _class: title
 - 差分
   - 変更の情報をリストとして持つ
   - 各バージョンごとにすべてのデータを持つわけではない
-![w:700px](sample_image/deltas.png)
+![w:700px](images/deltas.png)
 ## 差分とスナップショット
 - スナップショット
   - 各バージョンごとにすべてのデータを持つ
   - 変更がない時は以前の同一のファイルへのリンクを格納する
-![w:700px](sample_image/snapshots.png)
+![w:700px](images/snapshots.png)
 ## データをどこに置くか？
 
 - ローカル
@@ -64,17 +64,17 @@ _class: title
 - 分散
 
 ## ローカル・バージョン管理
-![bg right:40% w:70%](sample_image/local.png)
+![bg right:40% w:70%](images/local.png)
 - ローカルにバージョン情報を保存する
 - でも、他人と共有がしにくい…
 ## 集中バージョン管理
-![bg right:40% w:70%](sample_image/centralized.png)
+![bg right:40% w:70%](images/centralized.png)
 - サーバーにデータを保存する
 - 複数人で共有できる
 - サーバーが落ちたり壊れると被害が大きい
 
 ## 分散バージョン管理
-![bg right:40% w:70%](sample_image/distributed.png)
+![bg right:40% w:70%](images/distributed.png)
 - 手元にもミラーリングされる
 - すべてのレポジトリがバックアップとなる
 
@@ -91,7 +91,7 @@ _class: title
 - ファイルの状態を保存する
   - 変更履歴の記録がある
 ## 
-![bg center w:850px](sample_image/repository.png)
+![bg center w:850px](images/repository.png)
 
 ## Commit
 - その前のコミットからの変更をコミットオブジェクトとして保存する
