@@ -118,6 +118,10 @@ _class: title
 - Remote Repositoryで行われる
 ## ![bg center w:750px](images/pullrequest.png)
 
+## 実演(PR&Merge)
+<!--
+_class: title
+-->
 ## 参考文献
 
 - Git公式
