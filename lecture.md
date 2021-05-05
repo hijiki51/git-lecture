@@ -98,8 +98,10 @@ _class: title
 - コミットオブジェクト $\fallingdotseq$ スナップショット
   - 詳しくは[ここ](https://git-scm.com/book/ja/v2/Git%E3%81%AE%E5%86%85%E5%81%B4-Git%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
 - gitはコミットを基準として時系列が展開する
-
+- HEAD:自分が今いるコミット(デフォルトはそのブランチの最新コミット)
 ## Branch
+- 開発の本流から分岐し、開発の本流を妨げることなく作業を進めるための仕組み
+- main(master)ブランチ：本流
 ## Marge
 
 ## Pull Request

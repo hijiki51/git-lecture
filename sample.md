@@ -65,13 +65,13 @@ $$
 
 あんまり凝ったことはできない
 
-![](sample_image/traP.png)
+![](images/traP.png)
 
 サイズ変えたり横に並べるぐらいならできる
 
-![w:200px](sample_image/traP.png)![w:200px](sample_image/traP.png)
+![w:200px](images/traP.png)![w:200px](images/traP.png)
 
-# ![](sample_image/lolico.png) @trapyojo
+# ![](images/lolico.png) @trapyojo
 
 <!--
 _class: user
