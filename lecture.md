@@ -102,7 +102,11 @@ _class: title
 ## Branch
 - 開発の本流から分岐し、開発の本流を妨げることなく作業を進めるための仕組み
 - main(master)ブランチ：本流
+
+## ![bg center w:900px](images/branch.png)
+
 ## Marge
+
 
 ## Pull Request
 
