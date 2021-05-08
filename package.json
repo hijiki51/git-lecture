@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "2021年のgit講習会のスライドです",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "build" : "npx @marp-team/marp-cli lecture.md -o index.html --theme theme/traP.css"
+    "build": "npx @marp-team/marp-cli lecture.md -o index.html --theme theme/traP.css"
   },
   "repository": {
     "type": "git",
@@ -19,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hijiki51/git-lecture/issues"
   },
-  "homepage": "https://github.com/hijiki51/git-lecture#readme"
+  "homepage": "https://github.com/hijiki51/git-lecture#readme",
+  "dependencies": {
+    "@marp-team/marp-cli": "^1.0.1"
+  }
 }
