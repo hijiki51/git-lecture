@@ -1,0 +1,23 @@
+{
+  "name": "git-lecture",
+  "version": "1.0.0",
+  "description": "2021年のgit講習会のスライドです",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build" : "npx @marp-team/marp-cli lecture.md -o index.html --theme theme/traP.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hijiki51/git-lecture.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "hijiki51, tesso, reyu0722",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hijiki51/git-lecture/issues"
+  },
+  "homepage": "https://github.com/hijiki51/git-lecture#readme"
+}

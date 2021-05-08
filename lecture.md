@@ -28,6 +28,17 @@ _class: user
 - 物理学系二年
 - Game
 - SysAd
+
+# ![](images/tesso.png) @tesso
+
+<!--
+_class: user
+-->
+
+- 数理計算科学系
+- Game
+- SysAd
+- CTF
 ## 座学編
 
 - Gitとは
