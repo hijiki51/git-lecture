@@ -17,9 +17,9 @@ class: slides
 _class: title
 -->
 
-### @hijiki51
+### @hijiki51,@tesso
 
-# ![](images/DSC_0701.JPG) @hijiki51,@tesso
+# ![](images/DSC_0701.JPG) @hijiki51
 
 <!--
 _class: user
