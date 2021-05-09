@@ -19,7 +19,7 @@ _class: title
 
 ### @hijiki51
 
-# ![](images/DSC_0701.JPG) @hijiki51
+# ![](images/DSC_0701.JPG) @hijiki51,@tesso
 
 <!--
 _class: user
