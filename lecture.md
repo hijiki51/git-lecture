@@ -138,6 +138,35 @@ marp: true
 
 ---
 
+## Branch
+- Commit の繋がり
+  - Repository 内に複数作成可能
+  - ブランチごとに分けてバージョン管理ができる
+    - →複数の機能の開発を分離して保存できる
+
+- **main**(master) Branch：本流
+
+## Merge
+- 他の Branch にある変更を取り込む
+
+---
+
+## ![bg center w:80%](images/branch.png)
+
+---
+## 他にも
+- Rebase: Branch の履歴を整理する
+- Stash: 作業中の変更を一時保存する
+- Tag: 特定の Commit に名前をつける
+- Cherry-pick: 特定の Commit を取り込む
+- Checkout: 特定の Commit に移動する
+- Submodule: 他のリポジトリを取り込む
+- ...
+
+気になる人は調べてみてください
+
+---
+
 
 この講習会の資料はすべて Git で管理されています
 - https://github.com/hijiki51/git-lecture
