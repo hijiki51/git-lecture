@@ -5,7 +5,7 @@
   "main": "index.js",
   "packageManager": "pnpm@9.5.0",
   "scripts": {
-    "build": "marp lecture.md -o index.html"
+    "build": "marp lecture.md -o dist/index.html"
   },
   "keywords": [],
   "author": "",
