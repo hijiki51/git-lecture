@@ -5,7 +5,7 @@ marp: true
 
 # Git講習会
 
-### @hijiki51
+### SEKI Hibiki
 
 ---
 ## 座学編
