@@ -11,5 +11,8 @@
   "license": "CC0-1.0 Universal",
   "devDependencies": {
     "@marp-team/marp-cli": "^3.4.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
