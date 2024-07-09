@@ -120,7 +120,7 @@ marp: true
   - セーブポイントを作るイメージ
   - 一意なIDを持つ
 - Gitは Commit を基準として状態を移動する
-  - Commit したときの状態が帆zんされる
+  - Commit したときの状態が保存される
   - Commit されていない時点には移れない
     - Commit の間の編集中の状態とか
 - HEAD:自分が今いる Commit (基本的には最新コミット)
@@ -151,7 +151,7 @@ marp: true
 
 ---
 
-## ![bg center w:80%](images/branch.png)
+## ![bg center w:100%](images/branch.png)
 
 ---
 ## 他にも
