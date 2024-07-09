@@ -27,6 +27,8 @@ jobs:
       - run: pnpm install
       - name: Build 
         run: pnpm build
+      - name: copy images
+        run: cp -r images dist/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
